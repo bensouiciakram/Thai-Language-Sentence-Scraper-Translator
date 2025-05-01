@@ -44,9 +44,13 @@ Python version: `>=3.7`
 
 ## 📂 Data Files
 Make sure the following files exist:
-- Scraping/Test_list.txt: List of Thai words to scrape
-- Scraping/Text_to_translate.txt: Raw Thai text for translation
-- Scraping/Jennie_Bairfern_new_vocab_sorted_dictionary_lookup.pickle: Pickled list of matched words and definitions
+- `Scraping/Test_list.txt`: List of Thai words to scrape
+- `Scraping/Text_to_translate.txt`: Raw Thai text for translation
+- `Scraping/Jennie_Bairfern_new_vocab_sorted_dictionary_lookup.pickle`: Pickled list of matched words and definitions
+
+## 📝 Notes
+- This project is designed for educational use to help with Thai language learning.
+- The scraping script respects the structure of Thai-language.com but should not be overused or abused.
 
 
 
